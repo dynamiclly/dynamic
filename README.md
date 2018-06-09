@@ -1,5 +1,4 @@
 # IntelliJ IDEA For Mac OS X 10.5+快捷键
-
 #### 一、Editing（编辑）
 - `Control + Space` 基本的代码补全（补全任何类、方法、变量）
 - `Control + Shift + Space` 智能代码补全（过滤器方法列表和变量的预期类型）
@@ -35,7 +34,6 @@
 - `Command + Shift + 加号` 展开所以代码块
 - `Command + Shift + 减号` 折叠所有代码块
 - `Command + W` 关闭活动的编辑器选项卡
-
 #### 二、Search/Replace（查询/替换）
 - `Command + F` 文件内查找
 - `Command + G` 查找模式下，向下查找
@@ -43,12 +41,10 @@
 - `Command + R` 文件内替换
 - `Command + Shift + F` 全局查找（根据路径）
 - `Command + Shift + R` 全局替换（根据路径）
-
 #### 三、Usage Search（使用查询）
 - `Option + F7 / Command + F7` 在文件中查找用法 / 在类中查找用法
 - `Command + Shift + F7` 在文件中突出显示的用法
 - `Command + Option + F7` 显示用法
-
 #### 四、Compile and Run（编译和运行）
 - `Command + F9` 编译Project
 - `Command + Shift + F9` 编译选择的文件、包或模块
@@ -56,7 +52,6 @@
 - `Control + Option + D` 弹出 Debug 的可选择菜单
 - `Control + R / Control + D` 运行 / 调试
 - `Control + Shift + R, Control + Shift + D` 从编辑器运行上下文环境配置
-
 #### 五、Debugging（调试）
 - `F8` 进入下一步，如果当前行断点是一个方法，则不进入当前方法体内
 - `F7` 进入下一步，如果当前行断点是一个方法，则进入当前方法体内，如果该方法体还有方法，则不会进入该内嵌的方法中
@@ -67,7 +62,6 @@
 - `Command + Option + R` 恢复程序运行，如果该断点下面代码还有断点则停在下一个断点上
 - `Command + F8` 切换断点（若光标当前行有断点则取消断点，没有则加上断点）
 - `Command + Shift + F8` 查看断点信息
-
 #### 六、Navigation（导航）
 - `Command + O` 查找类文件
 - `Command + Shift + O` 查找所有类型文件、打开文件、打开目录，打开目录需要在输入的内容前面或后面加一个反斜杠`/`
@@ -101,7 +95,6 @@
 - `Option + F3` 选中文件/文件夹/代码行，使用助记符添加/取消书签
 - `Control + 0...Control + 9` 定位到对应数值的书签位置
 - `Command + F3` 显示所有书签
-
 #### 七、Refactoring（重构）
 - `F5` 复制文件到指定目录
 - `F6` 移动文件到指定目录
@@ -114,17 +107,14 @@
 - `Command + Option + F` 提取字段
 - `Command + Option + C` 提取常量
 - `Command + Option + P` 提取参数
-
 #### 八、VCS/Local History（版本控制/本地历史记录）
 - `Command + K` 提交代码到版本控制器
 - `Command + T` 从版本控制器更新代码
 - `Option + Shift + C` 查看最近的变更记录
 - `Control + V` 快速弹出版本控制器操作面板
-
 #### 九、Live Templates（动态代码模板）
 - `Command + Option + J` 弹出模板选择窗口，将选定的代码使用动态模板包住
 - `Command + J` 插入自定义动态代码模板
-
 #### 十、General（通用）
 - `Command + 1...Command + 9` 打开相应编号的工具窗口
 - `Command + Option + Y` 同步、刷新
@@ -137,6 +127,5 @@
 - `Command + ;` 打开项目结构对话框
 - `Shift + Command + A` 查找动作（可设置相关选项）
 - `Control + Shift + Tab` 编辑窗口标签和工具窗口之间切换（如果在切换的过程加按上delete，则是关闭对应选中的窗口）
-
 #### 十一、Other（一些官方文档上没有体现的快捷键）
 - `Command + Shift +8` 竖编辑模式
