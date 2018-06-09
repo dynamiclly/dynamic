@@ -1,5 +1,5 @@
 # IntelliJ IDEA For Mac OS X 10.5+快捷键
-#### 一、Editing（编辑）
+### 一、Editing（编辑）
 - `Control + Space` 基本的代码补全（补全任何类、方法、变量）
 - `Control + Shift + Space` 智能代码补全（过滤器方法列表和变量的预期类型）
 - `Command + Shift + Enter` 自动结束代码，行末自动添加分号
@@ -10,7 +10,7 @@
 - `Command + N, Control + Enter` 生成代码
 - `Control + O` 覆盖方法（重写父类方法）
 - `Control + I` 实现方法（实现接口中的方法）
-- `Command + Option + T` 包围代码（使用if..else, try..catch, for, synchronized等包围选中代码）
+- `Command + Option + T` 包围代码
 - `Command + /` 注释/取消注释与行注释
 - `Command + Option + /` 注释/取消注释与块注释
 - `Option + 方向键上` 连续选中代码块
